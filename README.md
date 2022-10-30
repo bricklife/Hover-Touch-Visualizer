@@ -4,6 +4,9 @@ Hover and Touch Visualizer
 ## Demo
 https://twitter.com/ooba/status/1586556353954209792
 
+## Requirements
+- Swift Playgrounds 4.2
+
 ## Official Documentation
 - zOffset
 https://developer.apple.com/documentation/uikit/uihovergesturerecognizer/4098402-zoffset
